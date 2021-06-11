@@ -120,3 +120,8 @@ command line.
 ## Unit Tests
 
 Unit tests can be run using the `pytest` command.
+
+### License
+
+Licensed under either of Apache License, Version 2.0 or MIT license at your
+option.
