@@ -29,6 +29,8 @@ anonymisation algorithm.
 > providing effective utility to data processors in the context of machine
 > learning.
 
+Read our full paper [here](https://ieeexplore.ieee.org/abstract/document/9251212).
+
 ## Usage
 
 ### Command Line Simulations
